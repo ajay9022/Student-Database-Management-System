@@ -3,9 +3,9 @@
 The project implements a simple Student Result Management System where academic details of a student are taken into account.
 
 The 3 files are : 
-1. Connhum
-2.
-3.
+1. CONNCOM
+2. CONNHUM
+3. CONNSC
 
 The details are as follows : 
 1. Name 
