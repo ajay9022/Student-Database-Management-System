@@ -27,3 +27,13 @@ It uses MySQL at backed for storing the database of the students in different st
 It is a Login based system which is different for each department/Stream.
 
 Note : Name of the database should be inaccordance to the names provided in the Java code.
+
+![](https://drive.google.com/open?id=15HblF4JyOmR7Gj7xBtfAbSQ5U3FynNxh)
+![](https://drive.google.com/open?id=1X7fs8WffZwhlwuRftNy9nhMjkPMMe14z)
+
+![](https://drive.google.com/open?id=1qr7KEhp4uNNav_r51vX4JTPS3KTM0Wa5)
+![]()
+
+![]()
+![]()
+
